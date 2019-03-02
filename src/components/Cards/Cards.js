@@ -7,107 +7,102 @@ const Cards=
   [{
     'id': 1,
     'name': 'bulbasaur',
-    'img': 'bulbasaur.jpg',
+    'img': 'bulbasaur.png',
   },
   {
     'id': 2,
     'name': 'caterpie',
-    'img': 'caterpie.jpg',
+    'img': 'caterpie.png',
   },
   {
     'id': 3,
     'name': 'charmander',
-    'img': 'charmander.jpg',
+    'img': 'charmander.png',
   },
   {
     'id': 4,
     'name': 'clefairy',
-    'img': 'clefairy.jpg',
+    'img': 'clefairy.png',
   },
   {
     'id': 5,
     'name': 'diglett',
-    'img': 'diglett.jpg',
+    'img': 'diglett.png',
   },
   {
     'id': 6,
     'name': 'eevee',
-    'img': 'eevee.jpg',
+    'img': 'eevee.png',
   },
   {
     'id': 7,
     'name': 'ekans',
-    'img': 'ekans.jpg',
+    'img': 'ekans.png',
   },
   {
     'id': 8,
     'name': 'growlithe',
-    'img': 'growlithe.jpg',
+    'img': 'growlithe.png',
   },
   {
     'id': 9,
     'name': 'jigglypuff',
-    'img': 'jigglypuff.jpg',
+    'img': 'jigglypuff.png',
   },
   {
     'id': 10,
     'name': 'mankey',
-    'img': 'mankey.jpg',
+    'img': 'mankey.png',
   },
   {
     'id': 11,
     'name': 'meowth',
-    'img': 'meowth.jpg',
+    'img': 'meowth.png',
   },
   {
     'id': 12,
     'name': 'mew',
-    'img': 'mew.jpg',
+    'img': 'mew.png',
   },
   {
     'id': 13,
     'name': 'mewtwo',
-    'img': 'mewtwo.jpg',
+    'img': 'mewtwo.png',
   },
   {
     'id': 14,
     'name': 'pikachu',
-    'img': 'pikachu.jpg',
+    'img': 'pikachu.png',
   },  
   {
     'id': 15,
     'name': 'poliwag',
-    'img': 'poliwag.jpg',
+    'img': 'poliwag.png',
   },
   {
     'id': 16,
     'name': 'psyduck',
-    'img': 'psyduck.jpg',
+    'img': 'psyduck.png',
   },
   {
     'id': 17,
     'name': 'rattata',
-    'img': 'rattata.jpg',
+    'img': 'rattata.png',
   },
   {
     'id': 18,
     'name': 'sandshrew',
-    'img': 'sandshrew.jpg',
+    'img': 'sandshrew.png',
   },
   {
     'id': 19,
     'name': 'slowpoke',
-    'img': 'slowpoke.jpg',
+    'img': 'slowpoke.png',
   },
   {
     'id': 20,
     'name': 'squirtle',
-    'img': 'squirtle.jpg',
-  },
-  {
-    'id': 21,
-    'name': 'vulpix',
-    'img': 'vulpix.jpg',
+    'img': 'squirtle.png',
   }
 ]
 

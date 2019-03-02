@@ -5,6 +5,7 @@ const Jumbo = () => (
   <div className="main-container">
     <div className="container">
       <div className="jumbotron">
+        <br></br>
         <h1>Clicky Game</h1>
         <h2>Gotta Catch em all!</h2>
         <h2>You have limited pokeballs.
@@ -14,8 +15,6 @@ const Jumbo = () => (
           </br>
           Game is over if you click on the same Pokemon more than once.
         </h2>
-
-        <h1>Some wild Pokemon has appeared!</h1>
       </div>
     </div>
   </div>
