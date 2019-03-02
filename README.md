@@ -1,5 +1,7 @@
 # Clicky
-![Screenshot of app](https://github.com/Finishoff/Webscrape/blob/master/public/assets/images/x.png)
+![Screenshot of app](https://github.com/Finishoff/Clicky/blob/master/public/assets/main.png)
+
+![Screenshot of app](https://github.com/Finishoff/Clicky/blob/master/public/assets/capture.png)
 
 How to get started?
 
