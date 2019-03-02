@@ -1,5 +1,5 @@
 # Clicky
-![Screenshot of app](https://github.com/Finishoff/Clicky/blob/master/public/assets/main.png)
+![Screenshot of app](https://github.com/Finishoff/Clicky/blob/master/public/assets/main%20updated.png)
 
 ![Screenshot of app](https://github.com/Finishoff/Clicky/blob/master/public/assets/capture.png)
 
