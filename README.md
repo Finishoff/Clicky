@@ -15,10 +15,8 @@ How to get started?
     * Game is over if you click on the same Pokemon more than once.
     
 # What is the purpose of this project?
-   * Memory game with the theme being Pokemon.
-   
-   For this assignment, you'll create a memory game with React. This assignment will require you to break up your application's UI      into components, manage component state, and respond to user events.
-   
+ * Learning how to break up application's UI into components, manage component state, and respond to user events.
+    
 # Technology usage:
   * Memory game made with React.
   * Application's UI are broken down into components, manage component state and respond to user events.
