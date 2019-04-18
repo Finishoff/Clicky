@@ -3,7 +3,7 @@
 
 ![Screenshot of app](https://github.com/Finishoff/Clicky/blob/master/public/assets/capture.png)
 
-How to get started?
+How to get started:
 
    * Since the project is deployed on heroku you can visit it by 
     [CLICKING HERE](https://pokeball-master.herokuapp.com/)
